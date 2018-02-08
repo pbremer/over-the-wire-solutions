@@ -16,7 +16,7 @@ Level          | Password
 ```bandit9```  | ```UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR```
 ```bandit10``` | ```truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk```
 ```bandit11``` | ```IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR```
-```bandit12``` | ```todo```
+```bandit12``` | ```5Te8Y4drgCRfCx8ugdwuEX8KFC6k2EUu```
 ```bandit13``` | ```todo```
 ```bandit14``` | ```todo```
 ```bandit15``` | ```todo```
